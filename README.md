@@ -24,9 +24,9 @@
 | 李孝成 | SylixOS技术分享与赛题解读   | |      |
 | 谈鉴锋 | 应用内核的发展和挑战  |                                                              |      |
 ## 报告会现场直播链接
-* [极客邦]
-* [CSDN] 
-* [机械工业出版社] 
+ * [机械工业出版社九州云播](http://live.eyunbo.cn/live/59915?uin=1729)
+ * [CSDN](https://live.csdn.net/room/xhwuli/8RX4Q9qn)
+ * [极客邦](https://live.infoq.cn/room/768)
 
 
 
